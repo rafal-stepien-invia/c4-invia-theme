@@ -7,7 +7,9 @@ Add to yours `.puml` file this lines to apply theme for specific
 
 ```
 @startuml
-!theme C4_invia from https://raw.githubusercontent.com/rafal-stepien-invia/c4-invia-theme/master/theme/puml-theme-C4_invia.puml
+!theme C4_invia from https://raw.githubusercontent.com/rafal-stepien-invia/c4-invia-theme/main/theme/puml-theme-C4_invia.puml
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Dynamic.puml
+
+@enduml
 
 ```
