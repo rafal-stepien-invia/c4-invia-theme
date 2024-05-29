@@ -2,7 +2,7 @@
 Invia's style for C4 PlantUML theme
 
 ## Importing
-Add to yours `.puml` file this lines to apply theme for specific 
+Add to yours `.puml` file these lines to apply theme for specific diagram
 
 
 ```
